@@ -1,0 +1,16 @@
+build-*/
+build*/
+captures/
+analysis/
+tools/mingit/
+tools/MinGit-*.zip
+test3.MOV
+*.mp4
+*.user
+*.obj
+*.exe~
+*.log
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
